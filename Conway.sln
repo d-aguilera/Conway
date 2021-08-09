@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conway.Engine", "Engine\Conway.Engine.csproj", "{0A291E2A-88CC-4018-A889-FA621DE2299B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conway.ConsoleApp", "ConsoleApp\Conway.ConsoleApp.csproj", "{6D812D0B-EC40-4A2A-90DB-42F56819D71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A291E2A-88CC-4018-A889-FA621DE2299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A291E2A-88CC-4018-A889-FA621DE2299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A291E2A-88CC-4018-A889-FA621DE2299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A291E2A-88CC-4018-A889-FA621DE2299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D812D0B-EC40-4A2A-90DB-42F56819D71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D812D0B-EC40-4A2A-90DB-42F56819D71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D812D0B-EC40-4A2A-90DB-42F56819D71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D812D0B-EC40-4A2A-90DB-42F56819D71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E46E9D2-4A00-4953-BD52-643AB7636471}
+	EndGlobalSection
+EndGlobal
